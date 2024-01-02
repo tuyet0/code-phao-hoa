@@ -1,0 +1,22 @@
+#info {
+    background: #333;
+    opacity: 0.8;
+    color: #fff;
+    border-radius: 5px;
+}
+
+h1 {
+    position: relative;
+    left: 467px;
+    bottom: -43vh;
+    text-shadow: 2px 2px #ff0000;
+    font-size: 30px;
+    font-weight: 600;
+    color: white;
+
+}
+
+body {
+    background-color: #333;
+    margin: 0;
+}
